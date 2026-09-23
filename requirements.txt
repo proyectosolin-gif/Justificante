@@ -1,4 +1,6 @@
 streamlit
 pandas
-sqlalchemy
 pyodbc
+sqlalchemy
+qrcode
+pillow
